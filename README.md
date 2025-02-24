@@ -35,5 +35,9 @@ YOLOv8 (https://github.com/ultralytics/ultralytics)
 The choice of YOLOv8 is based on its ability to simultaneously detect and classify multiple objects within a single frame. Adaptations will be made to the YOLOv8 model to accommodate the unique characteristics of ArSL gestures, such as their distinct shapes and movements., currently it has five versions, which all are models aimed at 640 pixels datasets. It was designed to boost performance and accuracy.
 Each new version has a boosted performance (inference speed and mAP score) compared to its predecessor. The YOLO algorithm applies a single neural network to the input image. The latter is divided into SxS grids. Each grid cell detects the object defined by its center.The output of the algorithm is a vector computed for each grid cell (i.e. object), containing the predicted bounding box (width, height), the confidence score of having an object, and the number of classes.
 
+![YoloV8](https://raw.githubusercontent.com/mustafa-raads/Arabic-Sign-Language/main/YoloV8.jpg)
+
+
+
 
 
